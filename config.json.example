@@ -1,0 +1,4 @@
+{
+  "from_address": "aws-lambda@example.com",
+  "to_address": "support@example.com"
+}

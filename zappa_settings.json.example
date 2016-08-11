@@ -1,0 +1,6 @@
+{
+    "dev": {
+        "app_function": "ses_forwarder.send_email",
+        "s3_bucket": "lambda.ses_forwarder"
+    }
+}
