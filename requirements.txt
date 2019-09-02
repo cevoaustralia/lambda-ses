@@ -15,7 +15,7 @@ MarkupSafe==0.23
 placebo==0.8.1
 python-dateutil==2.5.3
 python-slugify==1.2.0
-PyYAML==3.11
+PyYAML==5.1
 requests==2.11.0
 s3transfer==0.1.1
 six==1.10.0
