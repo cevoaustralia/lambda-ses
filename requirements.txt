@@ -16,11 +16,12 @@ placebo==0.8.1
 python-dateutil==2.5.3
 python-slugify==1.2.0
 PyYAML==5.4
-requests==2.11.0
+requests==2.20
 s3transfer==0.1.1
 six==1.10.0
-tqdm==4.8.3
+tqdm==4.11.2
 Unidecode==0.4.19
 Werkzeug==0.15.3
 wsgi-request-logger==0.4.5
 zappa==0.20.2
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
