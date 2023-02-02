@@ -21,7 +21,7 @@ s3transfer==0.1.1
 six==1.10.0
 tqdm==4.11.2
 Unidecode==0.4.19
-Werkzeug==0.15.3
+Werkzeug==0.15.5
 wsgi-request-logger==0.4.5
 zappa==0.20.2
 wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
