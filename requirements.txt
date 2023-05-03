@@ -3,7 +3,7 @@ boto3==1.4.5
 botocore==1.4.42
 click==6.6
 docutils==0.12
-Flask==1.0
+Flask==2.2.5
 futures==3.0.5
 hjson==2.0.0
 itsdangerous==0.24
