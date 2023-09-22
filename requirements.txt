@@ -1,9 +1,9 @@
 base58==0.2.3
 boto3==1.4.5
-botocore==1.4.42
+botocore==1.9.12
 click==6.6
 docutils==0.12
-Flask==1.0
+Flask==2.2.5
 futures==3.0.5
 hjson==2.0.0
 itsdangerous==0.24
@@ -21,7 +21,7 @@ s3transfer==0.1.1
 six==1.10.0
 tqdm==4.11.2
 Unidecode==0.4.19
-Werkzeug==0.15.5
+Werkzeug==2.2.3
 wsgi-request-logger==0.4.5
 zappa==0.20.2
 wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
