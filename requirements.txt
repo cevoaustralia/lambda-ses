@@ -19,7 +19,7 @@ PyYAML==5.4
 requests==2.20
 s3transfer==0.1.1
 six==1.10.0
-tqdm==4.11.2
+tqdm==4.66.3
 Unidecode==0.4.19
 Werkzeug==0.15.5
 wsgi-request-logger==0.4.5
